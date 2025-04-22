@@ -20,13 +20,15 @@ FileVault is a full-stack web application for managing file uploads with storage
 ```bash
 https://github.com/omkar-27/file-vault.git
 cd file-vault-main
-
+```
 🐳 Running the App with Docker
 
 Make sure Docker and Docker Compose are installed.
 ### 2. Build and Start the Containers
 
+```bash
 docker-compose up --build
+```
 
 This will:
 
