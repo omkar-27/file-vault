@@ -24,7 +24,7 @@ cd file-vault-main
 🐳 Running the App with Docker
 
 Make sure Docker and Docker Compose are installed.
-2. Build and Start the Containers
+### 2. Build and Start the Containers
 
 docker-compose up --build
 
