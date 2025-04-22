@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Git
+.git
+.gitignore
+
+# Node, static/media
+node_modules/
+staticfiles/
+media/
